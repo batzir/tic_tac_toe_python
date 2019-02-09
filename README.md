@@ -8,7 +8,9 @@ python main.py
 ```
 
 You are 'x', while the computer is 'o'.
+
 As the game begins you will be asked to enter a number in the range 0-8.
+
 The board is orderd as follow:
 ```
 0|1|2
