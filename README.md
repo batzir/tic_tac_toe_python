@@ -1,5 +1,6 @@
 # tic_tac_toe_python
 This is python implementation of Tic Tac Toe game.
+
 In order to play execute the following command in the termianl
 
 ```
